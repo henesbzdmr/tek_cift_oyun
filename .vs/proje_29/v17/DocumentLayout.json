@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9056A6BE-8B7E-4F5E-BC3A-DF41EC9DBD4D}|proje_29\\proje_29.csproj|c:\\users\\mbozd\\desktop\\github\\tek_cift_oyun\\proje_29\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9056A6BE-8B7E-4F5E-BC3A-DF41EC9DBD4D}|proje_29\\proje_29.csproj|solutionrelative:proje_29\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9056A6BE-8B7E-4F5E-BC3A-DF41EC9DBD4D}|proje_29\\proje_29.csproj|c:\\users\\mbozd\\desktop\\github\\tek_cift_oyun\\proje_29\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9056A6BE-8B7E-4F5E-BC3A-DF41EC9DBD4D}|proje_29\\proje_29.csproj|solutionrelative:proje_29\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\Form1.cs",
+              "RelativeDocumentMoniker": "proje_29\\Form1.cs",
+              "ToolTip": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\Form1.cs",
+              "RelativeToolTip": "proje_29\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:07:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\Form1.cs",
+              "RelativeDocumentMoniker": "proje_29\\Form1.cs",
+              "ToolTip": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "proje_29\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:05:23.204Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

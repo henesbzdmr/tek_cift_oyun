@@ -16,6 +16,8 @@ namespace proje_29
             button2.Enabled = true;
             button3.Enabled = true;
 
+
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -36,7 +38,7 @@ namespace proje_29
             label4.Text = puan.ToString();
             button2.Enabled = false; // buton aktiflik
             button3.Enabled = false;
-           
+
             if (puan == 100)
             {
                 MessageBox.Show("kazandýnýz");
@@ -74,7 +76,12 @@ namespace proje_29
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("deneme");
         }
     }
 }

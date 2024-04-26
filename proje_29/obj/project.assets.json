@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mbozd\\Desktop\\C# Projeleri\\C# Projeleri\\proje_29\\proje_29\\proje_29.csproj",
+      "projectUniqueName": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\proje_29.csproj",
       "projectName": "proje_29",
-      "projectPath": "C:\\Users\\mbozd\\Desktop\\C# Projeleri\\C# Projeleri\\proje_29\\proje_29\\proje_29.csproj",
+      "projectPath": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\proje_29.csproj",
       "packagesPath": "C:\\Users\\mbozd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mbozd\\Desktop\\C# Projeleri\\C# Projeleri\\proje_29\\proje_29\\obj\\",
+      "outputPath": "C:\\Users\\mbozd\\Desktop\\github\\tek_cift_oyun\\proje_29\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mbozd\\AppData\\Roaming\\NuGet\\NuGet.Config",

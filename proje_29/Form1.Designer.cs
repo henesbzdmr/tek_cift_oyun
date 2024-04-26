@@ -35,6 +35,7 @@
             button3 = new Button();
             label3 = new Label();
             label4 = new Label();
+            button4 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -101,11 +102,22 @@
             label4.Size = new Size(0, 19);
             label4.TabIndex = 6;
             // 
+            // button4
+            // 
+            button4.Location = new Point(679, 24);
+            button4.Name = "button4";
+            button4.Size = new Size(75, 23);
+            button4.TabIndex = 7;
+            button4.Text = "deneme";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 19F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button4);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(button3);
@@ -128,5 +140,6 @@
         private Button button3;
         private Label label3;
         private Label label4;
+        private Button button4;
     }
 }
