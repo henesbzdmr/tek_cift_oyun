@@ -1,0 +1,16 @@
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\bin\Debug\net8.0-windows\proje_29.exe
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\bin\Debug\net8.0-windows\proje_29.deps.json
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\bin\Debug\net8.0-windows\proje_29.runtimeconfig.json
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\bin\Debug\net8.0-windows\proje_29.dll
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\bin\Debug\net8.0-windows\proje_29.pdb
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.Form1.resources
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.csproj.GenerateResource.cache
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.AssemblyInfoInputs.cache
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.AssemblyInfo.cs
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.csproj.CoreCompileInputs.cache
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.dll
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\refint\proje_29.dll
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.pdb
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\proje_29.genruntimeconfig.cache
+C:\Users\mbozd\Desktop\C# Projeleri\C# Projeleri\proje_29\proje_29\obj\Debug\net8.0-windows\ref\proje_29.dll
